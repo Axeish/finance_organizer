@@ -1,0 +1,14 @@
+<section class="transaction">
+<ul>
+	<li *ngFor = "let emp of transaction">
+		<span class="bar" [style.backgroundColor]="emp.type"></span>
+		<span class="name">{{emp.name }}</span>
+		<span class="date">{{emp.date}}</span>
+		<span class="type">{{emp.type}}</span>
+		<span class="value">{{emp.value}}</span>
+
+		
+	</li>
+		
+</ul>
+</section>

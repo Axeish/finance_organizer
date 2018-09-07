@@ -1,0 +1,24 @@
+<section class="add_value">
+	<h3> Add data </h3>
+	<form>
+		<p>Hello {{firstname}} {{lastname}}</p>
+		<fieldset>
+			<label>Label</label>
+			<input type ="text" [placeholder]="firstname">
+		</fieldset>
+		<fieldset>
+			<label>Value</label>
+			<input type ="text" placeholder="$0.00">
+		</fieldset>
+		<fieldset>
+			<label>Category</label>
+			<input type ="text" placeholder="ex food, travel, leisure">
+		</fieldset>
+		<fieldset>
+			<label>Date</label>
+			<input type ="text" placeholder="mm/dd/yy">
+		</fieldset>
+		<button type="submit"> Submit </button>
+	    <button (click)="btnclick()"> Toast </button>
+	</form>
+</section>	

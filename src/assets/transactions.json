@@ -1,0 +1,12 @@
+[
+  {"type":"food", "id": 101,"name":"muni","value":"75.0$", "categoryCode":"#234345", "date" : 1029192910},
+  {"type":"food","id": 102,"name":"meal","value":"85.0$", "categoryCode":"#234345", "date" : 1029132910},
+  {"type":"food","id": 103,"name":"lyft","value":"40.0$", "categoryCode":"#234345", "date" : 1022192910},
+  {"type":"food","id": 104,"name":"tiki","value":"50.0$", "categoryCode":"#234345", "date" : 1059192910},
+  {"type":"food","id": 105,"name":"amazon","value":"25.0$", "categoryCode":"#234345", "date" : 1026192910},
+  {"type":"food","id": 106,"name":"pogo","value":"9.9$", "categoryCode":"#234345", "date" : 102919910},
+  {"type":"food","id": 107,"name":"pogo","value":"9.9$", "categoryCode":"#234345", "date" : 102919910}
+    
+
+
+      ]

@@ -1,0 +1,15 @@
+section {
+	background-color:#fff;
+
+}
+
+section div {
+	width: 1200px;
+	margin:0 auto;
+}
+
+
+section div a{
+	display: block;
+	padding:20px;
+}

@@ -1,0 +1,15 @@
+section {
+    background-color: #fff;
+    box-shadow: 0 0 10px #888888;
+    padding-bottom: 15px;
+}
+
+h3 {
+    font-size: 20px;
+    display: block;
+    background-color: #0C8397;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    background: url('../../assets/icon1.svg') no-repeat #0C8397 15px 50%;
+}
